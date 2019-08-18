@@ -1,5 +1,5 @@
 title = "TIBA"
-baseURL = "blog.thu-tiba.org"
+baseURL = "/"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "./themes"

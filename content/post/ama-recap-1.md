@@ -5,7 +5,7 @@ date: 2019-08-18T21:27:50+08:00
 
 On the 7th of August, TIBA kicked off its new AMA series. We are going to host regular *ask me anything* sessions with fascinating blockchain projects from China and around the world. We'd like to give the international community direct access to these projects and a chance to ask whatever you're interested in. Scan the QR code below to get invited to the **TIBA #AMA** WeChat group and find out more!
 
-<img alt="TIBA AMA Group QR code" src="/ama1/group-qr.jpg" style="width: 50%; display: block; margin-left: auto; margin-right: auto;" />
+<img alt="TIBA AMA Group QR code" src="/qr/tiba.jpg" style="width: 50%; display: block; margin-left: auto; margin-right: auto;" />
 
 <hr style="border: rgb(200,200,200) 1.0px;background-color: rgb(200,200,200);height: 1.0px; width: 70%"/>
 
@@ -27,4 +27,4 @@ How to get involved? Zhe mentioned their new Chinese [bounty program](https://bo
 
 If you want to know more about Conflux, check out their [website](https://www.conflux-chain.org) or read their [whitepaper](https://arxiv.org/abs/1805.03870)! To learn more about TIBA and join the discussion, scan the QR code below!
 
-<img src="/ama1/group-qr.jpg" style="width: 50%; display: block; margin-left: auto; margin-right: auto;" />
+<img src="/qr/tiba.jpg" style="width: 50%; display: block; margin-left: auto; margin-right: auto;" />

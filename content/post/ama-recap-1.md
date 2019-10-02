@@ -28,3 +28,7 @@ How to get involved? Zhe mentioned their new Chinese [bounty program](https://bo
 If you want to know more about Conflux, check out their [website](https://www.conflux-chain.org) or read their [whitepaper](https://arxiv.org/abs/1805.03870)! To learn more about TIBA and join the discussion, scan the QR code below!
 
 <img src="/qr/tiba.jpg" style="width: 50%; display: block; margin-left: auto; margin-right: auto;" />
+
+<hr style="border: rgb(200,200,200) 1.0px;background-color: rgb(200,200,200);height: 1.0px; width: 70%"/>
+
+*This article was written and edited by Péter Garamvölgyi.*

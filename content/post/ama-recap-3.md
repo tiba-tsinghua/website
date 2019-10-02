@@ -32,3 +32,7 @@ When asked about regulators, John was cautious. He stressed that NEO is non-prof
 To learn more about our upcoming TIBA events and join the discussion, scan the QR code below!
 
 <img src="/qr/tiba.jpg" style="width: 50%; display: block; margin-left: auto; margin-right: auto;" />
+
+<hr style="border: rgb(200,200,200) 1.0px;background-color: rgb(200,200,200);height: 1.0px; width: 70%"/>
+
+*This article was written and edited by Péter Garamvölgyi.*

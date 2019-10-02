@@ -97,3 +97,7 @@ If you want to learn more or join our team, make sure you come to our next event
 To learn more about TIBA and join the discussion, scan the QR code below!
 
 <img src="/qr/tiba.jpg" style="width: 50%; display: block; margin-left: auto; margin-right: auto;" />
+
+<hr style="border: rgb(200,200,200) 1.0px;background-color: rgb(200,200,200);height: 1.0px; width: 70%"/>
+
+*This article was written and edited by Péter Garamvölgyi and Federico Zaiter. Photos taken by Dylan.*
